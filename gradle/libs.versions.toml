@@ -1,0 +1,7 @@
+[versions]
+convince = "2.3.13"
+corresponding = "3.4.2"
+
+[libraries]
+convince = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "convince" }
+corresponding = { module = "io.ktor:ktor-server-core", version.ref = "corresponding" }
