@@ -1,5 +1,5 @@
 [versions]
-convince = "2.3.13"
+convince = "3.4.3"
 corresponding = "3.4.2"
 
 [libraries]
